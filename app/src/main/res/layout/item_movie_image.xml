@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.imageview.ShapeableImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:adjustViewBounds="true"
+    android:paddingHorizontal="4dp"
+    android:paddingVertical="8dp"
+    android:scaleType="fitCenter"
+    app:shapeAppearance="@style/ShapeAppearance.Material3.Corner.Small"
+    tools:background="?attr/colorTertiaryContainer"
+    tools:ignore="ContentDescription"
+    tools:src="@tools:sample/backgrounds/scenic" />

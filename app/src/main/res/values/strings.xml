@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">KinoMaxi Demo</string>
+
+    <string name="movie_release_date_description">Дата выхода</string>
+    <string name="movie_length_description">Продолжительность</string>
+    <string name="movie_length_value">%1$d ч. %2$d мин.</string>
+
+    <string name="top_rated_title">Топ лучших</string>
+    <string name="top_popular_title">Топ популярных</string>
+    <string name="top_upcoming_title">Топ ожидаемых</string>
+
+    <string name="error_loading">При загрузке произошла ошибка.\nПожалуйста, проверьте наличие интернет-соединения.</string>
+    <string name="error_refresh_action">Обновить</string>
+
+    <string name="favorite_movies_list_title">Избранное</string>
+    <string name="empty_favorites">Добавляйте фильмы в избранное, и они появятся на этом экране</string>
+
+    <string name="login_page_title">Вход</string>
+    <string name="login_lable">Логин</string>
+    <string name="password_label">Пароль</string>
+    <string name="sign_in_button">Войти</string>
+    <string name="sign_in_error">Что-то пошло не так!</string>
+    <string name="fields_error">Неправильные логин или пароль</string>
+
+    <string name="account_page_title">Аккаунт</string>
+    <string name="log_out_button">Выйти</string>
+    <string name="log_out_message">Вы вышли из аккаунта</string>
+    <string name="log_out_error_message">Ошибка при выходе из аккаунта!</string>
+
+</resources>
